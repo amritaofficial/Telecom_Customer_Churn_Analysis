@@ -1,5 +1,6 @@
 # Telecom_Customer_Churn_Analysis
 Telecom Customer Churn Analysis &amp; EDA A data analysis and exploratory data analysis (EDA) project focused on analyzing customer churn patterns within a telecommunications dataset. 
+
 This repository provides data cleaning workflows, statistical summaries, and categorical distribution visualizations to identify key drivers behind customer churn.
 
 🛠️ What I Did in This ProjectCleaned the Data: 
@@ -7,11 +8,14 @@ This repository provides data cleaning workflows, statistical summaries, and cat
 Fixed missing values and updated formatting, like changing blank entries in TotalCharges to 0 and converting the SeniorCitizen column into clear "Yes" or "No" labels. 
 
 Looked for Patterns: Checked all 7,043 customers across 21 columns to see who left the company and who stayed.
+
 Compared Features: Looked at how factors like contract length, internet type, and extra features affected whether a customer canceled.   
+
 Calculated Key Numbers: Worked out average monthly payments, total costs, and customer time with the company.
 
 💡 Simple Insights FoundContract Type Matters: 
 People on Month-to-Month plans leave much more often than people on 1-year or 2-year plans.   
+
 New Customers Leave First: Most customers who cancel leave within their first year.   
 Fiber Optic Issues: Customers with Fiber Optic internet leave more often than DSL users, likely because it costs more.   
 Extra Features Help Keep Customers: People who use extra services like Online Security or Tech Support are much less likely to leave.   

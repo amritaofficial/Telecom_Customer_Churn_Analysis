@@ -1,7 +1,11 @@
 # Telecom_Customer_Churn_Analysis
-Telecom Customer Churn Analysis &amp; EDA A data analysis and exploratory data analysis (EDA) project focused on analyzing customer churn patterns within a telecommunications dataset. This repository provides data cleaning workflows, statistical summaries, and categorical distribution visualizations to identify key drivers behind customer churn.
+Telecom Customer Churn Analysis &amp; EDA A data analysis and exploratory data analysis (EDA) project focused on analyzing customer churn patterns within a telecommunications dataset. 
+This repository provides data cleaning workflows, statistical summaries, and categorical distribution visualizations to identify key drivers behind customer churn.
+
 🛠️ What I Did in This ProjectCleaned the Data: 
-Fixed missing values and updated formatting, like changing blank entries in TotalCharges to 0 and converting the SeniorCitizen column into clear "Yes" or "No" labels.   
+
+Fixed missing values and updated formatting, like changing blank entries in TotalCharges to 0 and converting the SeniorCitizen column into clear "Yes" or "No" labels. 
+
 Looked for Patterns: Checked all 7,043 customers across 21 columns to see who left the company and who stayed.
 Compared Features: Looked at how factors like contract length, internet type, and extra features affected whether a customer canceled.   
 Calculated Key Numbers: Worked out average monthly payments, total costs, and customer time with the company.
